@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "react-icons": "^5.4.0",
+    "sass": "^1.83.4",
+    "vite": "^6.0.7"
+  }
+}
